@@ -62,7 +62,7 @@ I'm not the most skilled, so I did this structure as I knew it at the moment, bu
 
 ### Road map
 
-- [] Auth system in dashboard side
-- [] Form components like `inputs/textarea/radio/checkbox` in dashboard side
-- [] Form components like `inputs/textarea/radio/checkbox` in frontend side
-- [] CRUD Generator/management for `dashboard` and `frontend` with generating required files like `blade files, controllers, models`, etc.
+- [ ] Auth system in dashboard side
+- [ ] Form components like `inputs/textarea/radio/checkbox` in dashboard side
+- [ ] Form components like `inputs/textarea/radio/checkbox` in frontend side
+- [ ] CRUD Generator/management for `dashboard` and `frontend` with generating required files like `blade files, controllers, models`, etc.
