@@ -51,3 +51,11 @@ Exemple for blade
 ```bash
 @include('includes.head')
 ```
+
+# Why this structure ?
+
+Considering that during the development of a project many files will be made for both dashboard and frontend parts, so with this structure you can keep the files under control, it is more intuitive from my point of view.
+
+# Extra information
+
+Feel free to make pull-request to improve this structure.
