@@ -61,3 +61,7 @@ Considering that during the development of a project many files will be made for
 Feel free to make pull-request to improve this structure.
 
 I'm not the most skilled, so I did this structure as I knew it at the moment, but I'm convinced that there is someone in this world who is more skilled who can come up with suggestions and improvements.
+
+### Future development
+
+I also plan to make an authentication system on the dashboard side.
