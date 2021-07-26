@@ -60,6 +60,9 @@ Feel free to make pull-request to improve this structure.
 
 I'm not the most skilled, so I did this structure as I knew it at the moment, but I'm convinced that there is someone in this world who is more skilled who can come up with suggestions and improvements.
 
-### Future development
+### Road map
 
-I also plan to make an authentication system on the dashboard side.
+- [] Auth system in dashboard side
+- [] Form components like `inputs/textarea/radio/checkbox` in dashboard side
+- [] Form components like `inputs/textarea/radio/checkbox` in frontend side
+- [] CRUD Generator/management for `dashboard` and `frontend` with generating required files like `blade files, controllers, models`, etc.
