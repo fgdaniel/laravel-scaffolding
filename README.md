@@ -4,19 +4,17 @@ Dont clone this project, just copy files content in their location or make folde
 
 ## Commands
 
-You can install the package via composer:
+This command will do new blade file in directory `resources/dashboard/views/components` and component controller in `app/View/Components/Dashboard`
 
 ```bash
 php artisan dash:component <Name>
 ```
 
-This command will do new blade file in directory `resources/dashboard/views/components` and component controller in `app/View/Components/Dashboard`
+This command will do new blade file in directory `resources/frontend/views/components` and component controller in `app/View/Components/Frontend`
 
 ```bash
 php artisan front:component <Name>
 ```
-
-This command will do new blade file in directory `resources/frontend/views/components` and component controller in `app/View/Components/Frontend`
 
 ## Alias
 
