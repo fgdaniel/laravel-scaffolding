@@ -22,7 +22,7 @@ To point for dashboard view/blade you can do this in routes or blade
 
 Exemple for routes/web.php
 
-```bash
+```php
 Route::get('/', function () {
     return view('dashboard::pages.home');
 }); // This load blade file from resources/dashboard/pages/home.blade.php
@@ -30,7 +30,7 @@ Route::get('/', function () {
 
 Exemple for blade
 
-```bash
+```php
 @include('dashboard::includes.head')
 ```
 
