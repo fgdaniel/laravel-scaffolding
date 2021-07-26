@@ -38,7 +38,7 @@ To point for frontend view/blade you can do this in routes or blade
 
 Exemple for routes/web.php
 
-```bash
+```php
 Route::get('/', function () {
     return view('pages.home');
 }); // This load blade file from resources/frontend/pages/home.blade.php
@@ -46,7 +46,7 @@ Route::get('/', function () {
 
 Exemple for blade
 
-```bash
+```php
 @include('includes.head')
 ```
 
