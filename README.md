@@ -20,7 +20,7 @@ php artisan front:component <Name>
 
 To point for dashboard view/blade you can do this in routes or blade
 
-Exemple for routes/web.php
+Exemple for `routes/web.php`
 
 ```php
 Route::get('/', function () {
@@ -36,7 +36,7 @@ Exemple for blade
 
 To point for frontend view/blade you can do this in routes or blade
 
-Exemple for routes/web.php
+Exemple for `routes/web.php`
 
 ```php
 Route::get('/', function () {
