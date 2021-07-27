@@ -18,6 +18,22 @@ This command will do new blade file in directory `resources/frontend/views/compo
 php artisan front:component <Name>
 ```
 
+---
+
+This command will do new livewire component in `app/Http/LiveWire/Dashboard` and their blade file in `resources/dashboard/views/livewire`
+
+```bash
+php artisan dash:wire <Name>
+```
+
+---
+
+This command will do new livewire component in `app/Http/LiveWire/Frontend` and their blade file in `resources/frontend/views/livewire`
+
+```bash
+php artisan front:wire <Name>
+```
+
 ## Alias
 
 To point for dashboard view/blade you can do this in routes or blade
